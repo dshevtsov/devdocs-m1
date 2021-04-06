@@ -1,0 +1,17 @@
+# This file contains configuration settings for the devdocs website.
+# Each setting is available on pages using Liquid {{ site.<config key> }}. For example, {{ site.title }}.
+# For more details about available options and defaults, refer to https://jekyllrb.com/docs/configuration/
+#
+title: Magento 2 Developer Documentation
+logo: Magento DevDocs
+description: Magento 2 Developer Documentation.
+
+# Site theme: https://github.com/magento-devdocs/devdocs-theme
+# About themes in Jekyll: https://jekyllrb.com/docs/themes/
+# theme: devdocs
+
+# A part of URL to be inserted between site.url and page.url
+baseurl: ""
+
+exclude:
+  - .git
