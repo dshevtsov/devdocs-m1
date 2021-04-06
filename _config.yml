@@ -11,7 +11,7 @@ description: Magento 2 Developer Documentation.
 # theme: devdocs
 
 # A part of URL to be inserted between site.url and page.url
-baseurl: ""
+baseurl: "devdocs-m1"
 
 exclude:
   - .git
