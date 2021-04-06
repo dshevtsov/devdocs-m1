@@ -40,7 +40,7 @@ Linux x86-64
 
 #### Magento can utilize the following technologies:
 
-*   [Redis]({{ site.baseurl }}/guides/m1x/ce18-ee113/using_redis.html)
+*   [Redis]({{ site.baseurl }}/ce18-ee113/using_redis.html)
     
 	Redis can be used for session or cache storage
 
